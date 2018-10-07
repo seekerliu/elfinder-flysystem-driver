@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/elfinder-flysystem-driver",
+    "name": "seekerliu/elfinder-flysystem-driver",
     "description": "A Flysystem Driver for elFinder",
     "license": "MIT",
     "keywords": ["elfinder", "flysystem", "filesystem"],
